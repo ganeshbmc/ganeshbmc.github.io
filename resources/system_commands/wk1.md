@@ -1,3 +1,5 @@
+[Go to home page](/index.md)
+
 # First few steps  
     pwd     Present working directory
     ls      List files/folders in current directory
@@ -36,3 +38,4 @@
     mkdir   Create a directory
     rm      Remove a file
 
+[Go to home page](/index.md)
