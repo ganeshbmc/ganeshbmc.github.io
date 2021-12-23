@@ -1,1 +1,0 @@
-# ganeshbmc.github.io
