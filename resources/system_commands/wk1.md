@@ -1,4 +1,6 @@
-[Go to home page](/index.md)
+### Go to
+> [Home page](/index.md)  
+> [System commands page](/resources/system_commands/directory.md)
 
 # First few steps  
     pwd     Present working directory
@@ -38,4 +40,6 @@
     mkdir   Create a directory
     rm      Remove a file
 
-[Go to home page](/index.md)
+### Go to
+> [Home page](/index.md)  
+> [System commands page](/resources/system_commands/directory.md)
