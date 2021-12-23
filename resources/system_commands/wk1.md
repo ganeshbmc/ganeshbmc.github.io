@@ -1,5 +1,5 @@
 ### Go to
-> [Home page](/index.md)  
+> [Home page](https://ganeshbmc.github.io/)  
 > [System commands page](/resources/system_commands/directory.md)
 
 # First few steps  
@@ -41,5 +41,5 @@
     rm      Remove a file
 
 ### Go to
-> [Home page](/index.md)  
+> [Home page](https://ganeshbmc.github.io/)  
 > [System commands page](/resources/system_commands/directory.md)
