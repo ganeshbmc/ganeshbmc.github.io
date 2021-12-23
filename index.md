@@ -2,5 +2,5 @@
 ### Datascience journey
 
 ## Resources
-### [System commands (Linux)](/resources/system_commands/directory.md)
+### [System commands on Linux](/resources/system_commands/directory.md)
   - Find notes for system conmmands course [here](/resources/system_commands/directory.md).
